@@ -1,4 +1,4 @@
-  <p><img src="https://media.licdn.com/dms/image/v2/D5616AQEmykPKcrIC0A/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1728824498947?e=1744243200&amp;v=beta&amp;t=JrP8T1Im6EoXQNpMKjPBQLuFYD3hLWv8U3s-Q1cluhg"></p>
+  <p><img src="https://user-images.githubusercontent.com/61927149/267316895-9d3b9f36-83fe-468f-9504-43c7433e5a82.gif"></p>
 <h2>Hey there! I’m Md. Fahmidul Karim Rafi</h2><p></p>
 <!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
