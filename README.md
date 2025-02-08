@@ -6,7 +6,7 @@
 🎓 &nbsp;I’m currently studying Computer Science and Engineering at the Ahsanullah University of Science and Technology.<br>
 ✉️ &nbsp;You can shoot me an email at <a href="fahmidulkarimrafi@gmail.com">fahmidulkarimrafi@gmail.com</a>! I’ll try to respond as soon as I can.<br> <br>
 
-<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+<img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJyYjJqdzdnYXVuc3A1c284MGp6aHN4bjd1M3lucnhjcHh4YnpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
 <p>
 <img src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC" alt="C">&nbsp;
