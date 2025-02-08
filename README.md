@@ -53,6 +53,12 @@
 <a target="_blank" href="http://instagram.com/fahmidulkarim" style="display: inline-block;"><img src="https://img.shields.io/badge/instagram-logo?style=for-the-badge&logo=instagram&logoColor=white&color=%23F35369" alt="instagram" /></a>
 <a target="_blank" href="https://www.youtube.com/@RaFi-cf8cn" style="display: inline-block;"><img src="https://img.shields.io/badge/youtube-logo?style=for-the-badge&logo=youtube&logoColor=white&color=%23cc0000" alt="youtube" /></a></p>
 
-
 </p>
 <hr>
+
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/PDOX103/PDOX103/output/github-snake.svg" />
+</picture>
