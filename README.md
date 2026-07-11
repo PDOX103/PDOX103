@@ -3,7 +3,7 @@
 <h3 id="-about-me">👨🏻‍💻 &nbsp;About Me</h3>
 <p>💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.<br>
 🎓 &nbsp;I’m currently studying Computer Science and Engineering at the Ahsanullah University of Science and Technology.<br>
-✉️ &nbsp;You can send me an email at <a href="fahmidulkarimrafi2.0@gmail.com">fahmidulkarimrafi@gmail.com</a>.<br> <br>
+✉️ &nbsp;You can send me an email at <a href="fahmidulkarimrafi2.0@gmail.com">fahmidulkarimrafi2.0@gmail.com</a>.<br> <br>
 
 <img alt="Night Coding" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGJyYjJqdzdnYXVuc3A1c284MGp6aHN4bjd1M3lucnhjcHh4YnpsYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif" align="right">
 <h3 id="-tech-stack">🛠 &nbsp;Tech Stack</h3>
