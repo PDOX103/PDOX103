@@ -1,0 +1,13 @@
+[
+  {
+    "name": "PDOX103 Profile",
+    "repo": "PDOX103/PDOX103",
+    "logo": "profile.png",
+    "description": "Animated, theme-aware GitHub profile with live statistics and automated SVG panels",
+    "tags": [
+      "SVG",
+      "Python",
+      "Actions"
+    ]
+  }
+]

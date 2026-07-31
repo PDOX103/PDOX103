@@ -1,118 +1,57 @@
+<!-- ===== THEME-AWARE HERO BANNER ===== -->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/main/dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/main/light.svg">
-  <img alt="Md. Fahmidul Karim Rafi - GitHub profile banner" src="https://raw.githubusercontent.com/PDOX103/PDOX103/main/light.svg" width="100%">
+  <img alt="Md. Fahmidul Karim Rafi" src="https://raw.githubusercontent.com/PDOX103/PDOX103/main/light.svg">
 </picture>
 
-<div align="center">
-
-## `PDOX103@github:~$ whoami`
-
-**Md. Fahmidul Karim Rafi**  
-**Computer Science and Engineering Student · Software Developer**
-
-I explore new technologies, build software solutions, and turn ideas into practical projects.
-
-</div>
-
-## `./about-me`
-
-- 🎓 Studying **Computer Science and Engineering** at **Ahsanullah University of Science and Technology**
-- 💻 Interested in **web development, mobile applications, backend systems, databases, cloud tools, and creative technology**
-- 🧩 I enjoy experimenting with new technologies and building quick, useful solutions
-- 📫 Reach me at **[fahmidulkarimrafi2.0@gmail.com](mailto:fahmidulkarimrafi2.0@gmail.com)**
-
-## `./technology-stack --grouped`
-
-<div align="center">
-
-### Languages
-
-<img src="https://img.shields.io/badge/C-0A101F?style=flat-square&logo=c&logoColor=A8B9CC" alt="C">
-<img src="https://img.shields.io/badge/C++-0A101F?style=flat-square&logo=cplusplus&logoColor=00599C" alt="C++">
-<img src="https://img.shields.io/badge/Java-0A101F?style=flat-square&logo=openjdk&logoColor=ED8B00" alt="Java">
-<img src="https://img.shields.io/badge/JavaScript-0A101F?style=flat-square&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-<img src="https://img.shields.io/badge/PHP-0A101F?style=flat-square&logo=php&logoColor=777BB4" alt="PHP">
-<img src="https://img.shields.io/badge/Dart-0A101F?style=flat-square&logo=dart&logoColor=0175C2" alt="Dart">
-<img src="https://img.shields.io/badge/HTML5-0A101F?style=flat-square&logo=html5&logoColor=E34F26" alt="HTML5">
-<img src="https://img.shields.io/badge/CSS3-0A101F?style=flat-square&logo=css3&logoColor=1572B6" alt="CSS3">
-
-### Frontend and Mobile
-
-<img src="https://img.shields.io/badge/React-0A101F?style=flat-square&logo=react&logoColor=61DAFB" alt="React">
-<img src="https://img.shields.io/badge/Tailwind_CSS-0A101F?style=flat-square&logo=tailwindcss&logoColor=38BDF8" alt="Tailwind CSS">
-<img src="https://img.shields.io/badge/Bootstrap-0A101F?style=flat-square&logo=bootstrap&logoColor=7952B3" alt="Bootstrap">
-<img src="https://img.shields.io/badge/Flutter-0A101F?style=flat-square&logo=flutter&logoColor=02569B" alt="Flutter">
-
-### Backend and Databases
-
-<img src="https://img.shields.io/badge/Node.js-0A101F?style=flat-square&logo=nodedotjs&logoColor=339933" alt="Node.js">
-<img src="https://img.shields.io/badge/Express.js-0A101F?style=flat-square&logo=express&logoColor=FFFFFF" alt="Express.js">
-<img src="https://img.shields.io/badge/Laravel-0A101F?style=flat-square&logo=laravel&logoColor=FF2D20" alt="Laravel">
-<img src="https://img.shields.io/badge/MongoDB-0A101F?style=flat-square&logo=mongodb&logoColor=47A248" alt="MongoDB">
-<img src="https://img.shields.io/badge/MySQL-0A101F?style=flat-square&logo=mysql&logoColor=4479A1" alt="MySQL">
-<img src="https://img.shields.io/badge/Firebase-0A101F?style=flat-square&logo=firebase&logoColor=FFCA28" alt="Firebase">
-
-### Tools, Cloud, Hardware and Design
-
-<img src="https://img.shields.io/badge/Git-0A101F?style=flat-square&logo=git&logoColor=F05032" alt="Git">
-<img src="https://img.shields.io/badge/Docker-0A101F?style=flat-square&logo=docker&logoColor=2496ED" alt="Docker">
-<img src="https://img.shields.io/badge/AWS-0A101F?style=flat-square&logo=amazonwebservices&logoColor=FF9900" alt="AWS">
-<img src="https://img.shields.io/badge/Arduino-0A101F?style=flat-square&logo=arduino&logoColor=00979D" alt="Arduino">
-<img src="https://img.shields.io/badge/Figma-0A101F?style=flat-square&logo=figma&logoColor=F24E1E" alt="Figma">
-<img src="https://img.shields.io/badge/Blender-0A101F?style=flat-square&logo=blender&logoColor=F5792A" alt="Blender">
-<img src="https://img.shields.io/badge/Photoshop-0A101F?style=flat-square&logo=adobephotoshop&logoColor=31A8FF" alt="Adobe Photoshop">
-<img src="https://img.shields.io/badge/Illustrator-0A101F?style=flat-square&logo=adobeillustrator&logoColor=FF9A00" alt="Adobe Illustrator">
-<img src="https://img.shields.io/badge/Sketch-0A101F?style=flat-square&logo=sketch&logoColor=F7B500" alt="Sketch">
-
-</div>
-
-## `./github-analytics --live`
-
-<div align="center">
-
-<img width="100%" src="https://streak-stats.demolab.com/?user=PDOX103&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" alt="PDOX103 GitHub streak">
-
-<br>
-
-<!-- Temporary public endpoints. Replace both with your self-hosted Vercel instance as explained in PROFILE-SETUP.md. -->
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=PDOX103&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="PDOX103 GitHub statistics">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDOX103&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" alt="PDOX103 top languages">
-
-</div>
-
-## `./contribution-snake`
-
+<!-- ===== GITHUB STATS ===== -->
 <div align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/output/github-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/output/github-snake.svg">
-  <img alt="Snake eating PDOX103's GitHub contributions" src="https://raw.githubusercontent.com/PDOX103/PDOX103/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=PDOX103&hide_border=true&background=0A101F&stroke=22D3EE&ring=A78BFA&fire=10B981&currStreakLabel=22D3EE&sideLabels=94A3B8&currStreakNum=F8FAFC&sideNums=F8FAFC&dates=64748B&titleColor=22D3EE&card_width=1180" />
+  <img width="100%" src="https://streak-stats.demolab.com/?user=PDOX103&hide_border=true&background=FFFFFF&stroke=0891B2&ring=7C3AED&fire=059669&currStreakLabel=0891B2&sideLabels=475569&currStreakNum=0F172A&sideNums=0F172A&dates=94A3B8&titleColor=0891B2&card_width=1180" alt="Md. Fahmidul Karim Rafi GitHub streak" />
+</picture>
+<br/>
+<!-- Replace github-readme-stats.vercel.app with your self-hosted Vercel instance when ready. -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=PDOX103&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=22D3EE&icon_color=A78BFA&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=PDOX103&show_icons=true&count_private=true&include_all_commits=true&hide_rank=true&hide_border=true&title_color=0891B2&icon_color=7C3AED&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Md. Fahmidul Karim Rafi GitHub stats" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=PDOX103&layout=compact&langs_count=8&hide_border=true&title_color=22D3EE&text_color=94A3B8&bg_color=0A101F&card_width=500" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PDOX103&layout=compact&langs_count=8&hide_border=true&title_color=0891B2&text_color=0F172A&bg_color=FFFFFF&card_width=500" alt="Top languages" />
 </picture>
 </div>
 
-## `./connect`
-
+<!-- ===== CONTRIBUTION SNAKE ===== -->
 <div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/output/snake-light.svg" />
+  <img alt="Snake eating my contributions" src="https://raw.githubusercontent.com/PDOX103/PDOX103/output/snake-light.svg" />
+</picture>
+</div>
 
-<a href="https://www.linkedin.com/in/md-fahmidul-karim-rafi">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.facebook.com/fahmidulkarim.paradox.103">
-  <img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=1877F2&labelColor=0A101F" alt="Facebook">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.instagram.com/fahmidulkarim">
-  <img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram">
-</a>
-&nbsp;&nbsp;
-<a href="https://www.youtube.com/@RaFi-cf8cn">
-  <img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=FF0000&labelColor=0A101F" alt="YouTube">
-</a>
-&nbsp;&nbsp;
-<a href="mailto:fahmidulkarimrafi2.0@gmail.com">
-  <img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email">
-</a>
+<br/><br/>
+<!-- ===== AUTOMATED PROJECTS PANEL ===== -->
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/projects/projects.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/PDOX103/PDOX103/projects/projects-light.svg" />
+  <img width="100%" src="https://raw.githubusercontent.com/PDOX103/PDOX103/projects/projects-light.svg" alt="Projects" />
+</picture>
+</div>
 
+<!-- ===== SOCIAL BADGES ===== -->
+<br/>
+<div align="center">
+<a href="https://www.linkedin.com/in/md-fahmidul-karim-rafi"><img src="https://img.shields.io/badge/LinkedIn-0A101F?style=for-the-badge&logoColor=white&labelColor=0A101F&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiBmaWxsPSJ3aGl0ZSI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyNSAweiIvPjwvc3ZnPg==" alt="LinkedIn" /></a>
+&nbsp;&nbsp;
+<a href="https://www.instagram.com/fahmidulkarim/"><img src="https://img.shields.io/badge/Instagram-0A101F?style=for-the-badge&logo=instagram&logoColor=A78BFA&labelColor=0A101F" alt="Instagram" /></a>
+&nbsp;&nbsp;
+<a href="https://www.facebook.com/fahmidulkarim.paradox.103"><img src="https://img.shields.io/badge/Facebook-0A101F?style=for-the-badge&logo=facebook&logoColor=22D3EE&labelColor=0A101F" alt="Facebook" /></a>
+&nbsp;&nbsp;
+<a href="https://www.youtube.com/@RaFi-cf8cn"><img src="https://img.shields.io/badge/YouTube-0A101F?style=for-the-badge&logo=youtube&logoColor=FF3B30&labelColor=0A101F" alt="YouTube" /></a>
+&nbsp;&nbsp;
+<a href="mailto:fahmidulkarimrafi2.0@gmail.com"><img src="https://img.shields.io/badge/Email-0A101F?style=for-the-badge&logo=gmail&logoColor=10B981&labelColor=0A101F" alt="Email" /></a>
 </div>
