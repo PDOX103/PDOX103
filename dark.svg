@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="610" viewBox="0 0 1180 610" role="img" aria-labelledby="title desc">
+  <title id="title">Md. Fahmidul Karim Rafi GitHub profile banner</title>
+  <desc id="desc">Terminal-style GitHub banner for PDOX103</desc>
+  <style>
+    .mono { font-family: "SFMono-Regular", Consolas, "Liberation Mono", monospace; }
+    .title { font: 700 20px "SFMono-Regular", Consolas, monospace; fill: #F8FAFC; }
+    .small { font: 600 12px "SFMono-Regular", Consolas, monospace; fill: #94A3B8; letter-spacing: 1.1px; }
+    .label { font: 600 13px "SFMono-Regular", Consolas, monospace; fill: #22D3EE; }
+    .value { font: 500 13px "SFMono-Regular", Consolas, monospace; fill: #F8FAFC; }
+    .leader { stroke: #94A3B8; stroke-width: 1; stroke-dasharray: 2 5; opacity: .42; }
+    .tech { font: 700 34px "SFMono-Regular", Consolas, monospace; fill: #A78BFA; }
+    .prompt { font: 600 15px "SFMono-Regular", Consolas, monospace; fill: #10B981; }
+    @keyframes pulse { 0%,100% {opacity:.45} 50% {opacity:1} }
+    @keyframes blink { 0%,45% {opacity:1} 50%,100% {opacity:0} }
+    @keyframes tech1 { 0%,27% {opacity:1} 33%,100% {opacity:0} }
+    @keyframes tech2 { 0%,30% {opacity:0} 36%,61% {opacity:1} 67%,100% {opacity:0} }
+    @keyframes tech3 { 0%,64% {opacity:0} 70%,94% {opacity:1} 100% {opacity:0} }
+    .pulse { animation:pulse 1.6s infinite; }
+    .cursor { animation:blink 1s steps(1,end) infinite; }
+    .t1 { animation:tech1 9s infinite; }
+    .t2 { animation:tech2 9s infinite; }
+    .t3 { animation:tech3 9s infinite; }
+  </style>
+
+  <rect width="1180" height="610" rx="18" fill="#0A101F"/>
+  <rect x="10" y="10" width="1160" height="590" rx="14" fill="#101827" stroke="#22D3EE" stroke-width="2"/>
+  <rect x="10" y="10" width="1160" height="48" rx="14" fill="#0D1523"/>
+  <circle cx="38" cy="34" r="6" fill="#FF5F57"/>
+  <circle cx="60" cy="34" r="6" fill="#FEBB2E"/>
+  <circle cx="82" cy="34" r="6" fill="#28C840"/>
+  <text x="590" y="40" text-anchor="middle" class="small">profile.sh --live</text>
+
+  <rect x="38" y="84" width="432" height="488" rx="12" fill="#0D1523" stroke="#A78BFA" stroke-width="1.5"/>
+  <text x="62" y="116" class="small">VISUAL.MAP</text>
+  <line x1="62" y1="128" x2="446" y2="128" stroke="#A78BFA" stroke-width="1" opacity=".55"/>
+
+  <g transform="translate(80 165)">
+    <rect x="0" y="0" width="350" height="234" rx="12" fill="#101827" stroke="#22D3EE" opacity=".98"/>
+    <text x="175" y="82" text-anchor="middle" class="tech" opacity="1">C++
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="1;1;0;0;0;0;1" keyTimes="0;0.28;0.34;0.63;0.69;0.95;1"/>
+    </text>
+    <text x="175" y="82" text-anchor="middle" class="tech" opacity="0">React
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;1;1;0;0;0" keyTimes="0;0.28;0.34;0.63;0.69;0.95;1"/>
+    </text>
+    <text x="175" y="82" text-anchor="middle" class="tech" opacity="0">Flutter
+      <animate attributeName="opacity" dur="9s" repeatCount="indefinite" values="0;0;0;0;1;1;0" keyTimes="0;0.28;0.34;0.63;0.69;0.95;1"/>
+    </text>
+    <text x="175" y="132" text-anchor="middle" class="title">FKR</text>
+    <text x="175" y="164" text-anchor="middle" class="small">@PDOX103</text>
+    <path d="M65 194 H285" stroke="#10B981" stroke-width="2" stroke-dasharray="3 8" class="pulse"/>
+  </g>
+
+  <text x="62" y="442" class="prompt">$ build --learn --ship<tspan class="cursor">_</tspan></text>
+  <text x="62" y="475" class="small">WEB · MOBILE · BACKEND · DATABASE</text>
+  <text x="62" y="500" class="small">CLOUD · HARDWARE · DESIGN</text>
+  <rect x="62" y="526" width="160" height="28" rx="14" fill="#A78BFA" opacity=".17"/>
+  <text x="142" y="545" text-anchor="middle" class="small" style="fill:#A78BFA">PDOX103 / MAIN</text>
+
+  <text x="514" y="108" class="small">SYSTEM.INFO</text>
+  <circle cx="1014" cy="104" r="5" fill="#EF4444" class="pulse"/>
+  <text x="1028" y="109" class="small" style="fill:#EF4444">LIVE</text>
+  <rect x="1070" y="87" width="70" height="28" rx="14" fill="#22D3EE" opacity=".17"/>
+  <text x="1105" y="106" text-anchor="middle" class="small" style="fill:#22D3EE">@PDOX103</text>
+  <line x1="514" y1="128" x2="1140" y2="128" stroke="#22D3EE" stroke-width="1" opacity=".55"/>
+
+  <text x="535" y="166" class="label">Subject</text><line x1="612" y1="162" x2="1090" y2="162" class="leader"/><rect x="825" y="146" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="166" text-anchor="end" class="value">Md. Fahmidul Karim Rafi</text><text x="535" y="192" class="label">Role</text><line x1="612" y1="188" x2="1090" y2="188" class="leader"/><rect x="825" y="172" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="192" text-anchor="end" class="value">CSE Student + Software Developer</text><text x="535" y="218" class="label">Education</text><line x1="612" y1="214" x2="1090" y2="214" class="leader"/><rect x="825" y="198" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="218" text-anchor="end" class="value">AUST · Computer Science &amp; Engineering</text><text x="535" y="244" class="label">Status</text><line x1="612" y1="240" x2="1090" y2="240" class="leader"/><rect x="825" y="224" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="244" text-anchor="end" class="value">Exploring + Building + Learning</text><text x="535" y="270" class="label">ToolChain</text><line x1="612" y1="266" x2="1090" y2="266" class="leader"/><rect x="825" y="250" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="270" text-anchor="end" class="value">Git · Docker · Figma · Arduino</text><text x="535" y="296" class="label">Core.Lang</text><line x1="612" y1="292" x2="1090" y2="292" class="leader"/><rect x="825" y="276" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="296" text-anchor="end" class="value">C · C++ · Java · JavaScript · PHP · Dart</text><text x="535" y="322" class="label">Core.Frontend</text><line x1="612" y1="318" x2="1090" y2="318" class="leader"/><rect x="825" y="302" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="322" text-anchor="end" class="value">React · Tailwind · Bootstrap · Flutter</text><text x="535" y="348" class="label">Core.Backend</text><line x1="612" y1="344" x2="1090" y2="344" class="leader"/><rect x="825" y="328" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="348" text-anchor="end" class="value">Node.js · Express · Laravel</text><text x="535" y="374" class="label">Core.Database</text><line x1="612" y1="370" x2="1090" y2="370" class="leader"/><rect x="825" y="354" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="374" text-anchor="end" class="value">MongoDB · MySQL · Firebase</text><text x="535" y="400" class="label">Core.Infra</text><line x1="612" y1="396" x2="1090" y2="396" class="leader"/><rect x="825" y="380" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="400" text-anchor="end" class="value">AWS · Docker · Git</text><text x="535" y="426" class="label">Grid.Mail</text><line x1="612" y1="422" x2="1090" y2="422" class="leader"/><rect x="825" y="406" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="426" text-anchor="end" class="value">fahmidulkarimrafi2.0@gmail.com</text><text x="535" y="452" class="label">Grid.LinkedIn</text><line x1="612" y1="448" x2="1090" y2="448" class="leader"/><rect x="825" y="432" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="452" text-anchor="end" class="value">/in/md-fahmidul-karim-rafi</text><text x="535" y="478" class="label">Grid.GitHub</text><line x1="612" y1="474" x2="1090" y2="474" class="leader"/><rect x="825" y="458" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="478" text-anchor="end" class="value">github.com/PDOX103</text><text x="535" y="504" class="label">Grid.Facebook</text><line x1="612" y1="500" x2="1090" y2="500" class="leader"/><rect x="825" y="484" width="300" height="23" fill="#101827" opacity="0.98"/><text x="1115" y="504" text-anchor="end" class="value">/fahmidulkarim.paradox.103</text>
+</svg>
